@@ -26,3 +26,11 @@ pelajaran web dasar di smk walisongo semarang
 - property border = mengatur ukuran garis pada tag table
 
 - cara penulisan property = <tag property="apa?"></tag>
+
+# Cara Membuat Daftar/List di HTML (tag ol, ul dan li)
+Untuk menampilkan sebuah text sebagai daftar/list, HTML menyediakan Tag 
+- <ol> orderlist
+- <ul> unorderlist
+- <li> list
+Dalam HTML, tag list terdiri dari 2 jenis, ordered list (berurutan) dan unordered list (tidak berurutan). Ordered list akan ditampilkan dengan angka atau huruf, sedangkan unordered list dengan bulatan atau kotak.
+Ordered list menggunakan tag <ol>, dan unordered list menggunakan tag <ul>, sedangkan untuk list sendiri menggunakan tag <li>.
