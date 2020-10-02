@@ -36,3 +36,10 @@ Untuk menampilkan sebuah text sebagai daftar/list, HTML menyediakan Tag
 ```
 Dalam HTML, tag list terdiri dari 2 jenis, ordered list (berurutan) dan unordered list (tidak berurutan). Ordered list akan ditampilkan dengan angka atau huruf, sedangkan unordered list dengan bulatan atau kotak.
 Ordered list menggunakan tag ```<ol>```, dan unordered list menggunakan tag ```<ul>```, sedangkan untuk list sendiri menggunakan tag ```<li>```.
+
+
+# Berikut saya tambahkan referensi untuk belajar html
+
+- Sekolahcoding.com
+- Youtube.com/webprogrammingunpas
+- Buildwithangga.com
